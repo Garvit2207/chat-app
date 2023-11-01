@@ -1,11 +1,11 @@
 
-# Let's Talk
+# Noise
 
-This is a live chat-app made by me using sockets in nodejs. You can create rooms and have group discussions with your friends in the chat room. 
+Noise is a live chat-app made by me using sockets in nodejs. You can create rooms and have group discussions with your friends in the chat room. 
 
 Let's try it out 🎉
 
--[@Let's Talk](https://lets-talk-z7c1.onrender.com)
+-[@Noise](https://lets-talk-z7c1.onrender.com)
 
 ## Run Locally
 

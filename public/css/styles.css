@@ -65,6 +65,7 @@ button:disabled {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .centered-form__box {
